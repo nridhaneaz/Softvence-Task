@@ -31,7 +31,7 @@ Ready for extension to edit/delete courses or integrate with a dashboard.
 
 Tech Stack
 
-Backend: PHP 8+, Laravel 10
+Backend: PHP 8+, Laravel 11
 
 Frontend: HTML5, CSS3, jQuery
 
@@ -50,7 +50,7 @@ cd course-creator
 Install dependencies
 
 composer install
-npm install
+
 
 
 Set up environment
