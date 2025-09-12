@@ -1,4 +1,4 @@
-Course Creator - Laravel + jQuery
+Course Creator - Laravel 
 
 A dynamic course creation platform built with Laravel for the backend and HTML/CSS + jQuery for the frontend. Users can create courses with multiple modules, each containing multiple content items (text, video, image, or external link).
 
@@ -102,6 +102,21 @@ Enter Content Title and either Body or Media URL.
 Repeat for multiple modules/contents.
 
 Click Save Course.
+
+app/
+ ├─ Http/
+ │   ├─ Controllers/
+ │   │    └─ CourseController.php
+ 
+ ├─ Models/
+ │    ├─ Course.php
+ │    ├─ Module.php
+ │    └─ Content.php
+resources/views/
+ ├─ layouts/app.blade.php
+ └─ courses/create.blade.php
+
+
 
 Project Image
 
