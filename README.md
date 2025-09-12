@@ -103,22 +103,7 @@ Repeat for multiple modules/contents.
 
 Click Save Course.
 
-app/
- ├─ Http/
- │   ├─ Controllers/
- │   │    └─ CourseController.php
 
- 
- 
- ├─ Models/
- │    ├─ Course.php
- │    ├─ Module.php
- │    └─ Content.php
-
- 
-resources/views/
- ├─ layouts/app.blade.php
- └─ courses/create.blade.php
 
 
 
