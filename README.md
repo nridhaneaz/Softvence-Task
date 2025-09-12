@@ -39,12 +39,7 @@ Database: MySQL
 
 Optional: Tailwind CSS (can replace inline CSS for cleaner design)
 
-Installation
 
-Clone the repository
-
-git clone https://github.com/yourusername/course-creator.git
-cd course-creator
 
 
 Install dependencies
