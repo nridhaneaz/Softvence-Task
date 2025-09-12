@@ -102,5 +102,10 @@ Enter Content Title and either Body or Media URL.
 Repeat for multiple modules/contents.
 
 Click Save Course.
-<img width="1024" height="1024" alt="roberw" src="https://github.com/user-attachments/assets/535c2d1a-31d0-4602-97a8-25ff7be38a61" />
 
+Project Image
+
+![3](https://github.com/user-attachments/assets/382fd7f0-236e-45d6-ada2-6009f07093e5)
+![2](https://github.com/user-attachments/assets/4eb50898-fe12-46b7-a6f5-5edbfc33a998)
+![1](https://github.com/user-attachments/assets/a2ea8561-5007-4833-9848-2490faf7f9d0)
+![4](https://github.com/user-attachments/assets/2c7d2c1d-6650-4f65-baa9-830db1cc3a0f)
